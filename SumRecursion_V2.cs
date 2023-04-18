@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SumRecursion_V1
+namespace SumRecursion_V2
 {
     class SumRecursion_V2
     {
